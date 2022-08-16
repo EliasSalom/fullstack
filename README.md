@@ -1,6 +1,6 @@
-<p align="center">
-
 # The FullStack Bible
+
+<p align="center">
 
 ![fullstack](./Images/fullstackdeveloper.png)
 
