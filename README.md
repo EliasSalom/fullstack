@@ -1,10 +1,10 @@
-<div style="text-align: center">
+<p align="center">
 
 # The FullStack Bible
 
 ![fullstack](./Images/fullstackdeveloper.png)
 
-</div>
+</p>
 
 
 
