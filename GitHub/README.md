@@ -5,7 +5,7 @@
 - [About](#about)
 - [Resorcies](#resorcies)
 - [More](#more)
-- [End](#end)
+
 
 ## Description
 ### Intro
@@ -16,4 +16,5 @@ This Repo is just to help anyone want to know how to handel all the technology, 
 
 ## More
 
-## End
+## Created by
+[elias salom](https://github.com/EliasSalom)
