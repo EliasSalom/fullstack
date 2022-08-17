@@ -50,7 +50,7 @@
         - navigation
     - GIT
         - git-flow
-        - git-commands
+        - [git-commands](./GitHub)
             - git-add
             - git-commit
             - git-push

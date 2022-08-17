@@ -24,12 +24,13 @@ with short way, Every important command you will find here with small and short 
 
 
 
-<p align="center">
+
 
 ## Start
 Please select a level to start
+<p align="center">
 
-<a href="/" class="button pill">This is a pill button</a>
+[click here](./Resources)
 
 </p>
 
