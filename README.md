@@ -29,7 +29,7 @@ with short way, Every important command you will find here with small and short 
 ## Start
 Please select a level to start
 
-<a href="/" class="button pill">This is a pill button</a>
+<a href="./Resources" class="button pill">This is a pill button</a>
 
 </p>
 
