@@ -47,4 +47,4 @@ Then you can use the tags to create a text field, checkbox, radio button, date, 
 
 
 ## Created by
-[elias salom](https://github.com/EliasSalom)
+[Elias Salom](https://github.com/EliasSalom)
