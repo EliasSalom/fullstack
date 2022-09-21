@@ -1,3 +1,4 @@
+export {};
 /*
 Have the function HDistance(strArr) take the array of strings stored in strArr, which will only contain two strings of equal length and return the number
 of characters at each position that are different between them. For example: if strArr is ["house", "hours"] then your program should return 2.
