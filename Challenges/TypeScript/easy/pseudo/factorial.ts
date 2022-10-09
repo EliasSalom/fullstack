@@ -1,6 +1,4 @@
 export {};
-//Find the factorial of a given number
-
 function factorial(num) {
     // 1. If the number is 1 or smaller, return it.
     // 2. If the number is greater than 1 continue to the next step
