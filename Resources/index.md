@@ -99,6 +99,7 @@
             - Sail.js
             - Total.js
             - Loopback.js
+            - fastyfy.js 
     - [React]()
         - Type Script & OOP
         - Redux - `Redux` & `react-redux`
@@ -143,6 +144,17 @@
     3. Project
     4. coding
     5. coding-tips
+
+NX
+PNPM (package manager)
+Docker (container orchestrador)
+Typescript
+NodeJS/Express (backend)
+React + Storybook + Tailwind CSS (frontend)
+Databases (MySQL, Redis)
+Nginx
+Tools: Prisma, Typedocs
+Elastic Search and Kibana
 
 5. Books
     - React - The Complete Guide
