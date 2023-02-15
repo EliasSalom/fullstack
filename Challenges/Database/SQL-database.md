@@ -37,3 +37,43 @@ Write two servers, that make them talk to each other, and then
 5.	and try to run one of the servers on the remote (on the web)
 </p>
 </details>
+
+create table student(
+id varchar(9) primary key,
+firstName varchar(15) not null,
+lastName varchar(15) not null,
+age numeric not null,
+levels varchar(2) not null,
+student_campus REFERENCES campus(classroom)
+);
+
+insert into student values 
+("123456789","elias","lastname",29,"b",123),
+("112233445","tayser","lastname",27,"b",123),
+("223344556","amal","lastname",36,"b",123),
+("334455667","karem","lastname",23,"b",123),
+("445566778","amer","lastname",33,"b",123);
+
+create table courses(
+courseID numeric primary key,
+course name varchar(8) not null,
+description text not null,
+hour numeric not null,
+startAt datetime not null,
+endAt datetime not null
+);
+
+create table campus(
+classroom numeric not null,
+floor numeric not null,
+booked boolean not null,
+teacherName	varchar(15) not null,
+building varchar(20) not null
+);
+
+insert into campus values 
+(123,14,true,"hoseen","b"),
+(234,7,true,"yosef","b"),
+(456,12,true,"manar","b"),
+(123,2,false,"neven","b"),
+(234,5,false,"aiman","b");
